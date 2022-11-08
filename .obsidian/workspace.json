@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "fc465ec7be090cab",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cb84668ea904e95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9523a7d479e8d9e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNI/Bachelor/My Bachelor Topic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "260e880ad5620ef1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNI/Bachelor/topaz denoising.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9bd59fb86cc7f5d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WORK/Trixter/Trixter Workflows.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "812691ab3e1830e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WORK/Trixter/Trixter CS Workflows.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c9f21508229a612",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNI/Lizenzen Uni.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0f024da36155a42",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "f85765ca457254f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chrome Clippings.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f8a5a33a7ae86b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "38e42f7a10b96da8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d032ae386fc23495",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5a321b39bf4c8dc0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a3e7c982c9174fcd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a513b38ef4c38ba0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c55a850cadd5d33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6aaf5f4bf68739e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2081d4f7dacd4c4a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "75e2207223605c04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "1668422e281d5e89",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "24683bf02e6b1699",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 402.5
+  },
+  "active": "c0f024da36155a42",
+  "lastOpenFiles": [
+    "UNI/Bachelor/My Bachelor Topic.md",
+    "2022-11-08.md",
+    "UNI/Bachelor/Vorläufiges Inhaltsverzeichnis.md",
+    "Optix.md",
+    "Zusammenfassung der Ergebnisse.md",
+    "UNI/Bachelor/Denoising für AOVs.md",
+    "UNI/Bachelor/Denoising.md",
+    "MYSELF/Building my second Brain.md",
+    "MYSELF/Understanding My Brain.md",
+    "Chrome Clippings.md"
+  ]
+}

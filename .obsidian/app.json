@@ -1,0 +1,10 @@
+{
+  "strictLineBreaks": true,
+  "showFrontmatter": true,
+  "spellcheckLanguages": [
+    "en-GB",
+    "de-DE"
+  ],
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true
+}
